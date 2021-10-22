@@ -12,7 +12,7 @@ HABILIDADES:
 -Desarrollo tanto en el back-end como en el front-end
 -Manejo de SQL Server, Mysql y Oracle
 -Manejo de bases de datos no relacionales como MongoDB
--Lenguajes de Programación Java, C#, PHP, Kotlin, C y C++
+-Lenguajes de Programación Java, C#, PHP, C y C++
 -Programación con C# sobre la plataforma .NET
 -ASP.NET WEB API
 -Desarrollo Nativo con Android Studio
@@ -20,3 +20,4 @@ HABILIDADES:
 -Framework Angular 10+ y React.js
 -Desarrollo de aplicaciones moviles Híbridas con Ionic Framework
 -git y github para el control de versiones
+- Creación de API'S REST
